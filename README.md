@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Szebasztian Marton</h1>
-<h3 align="center">A passionate Frontend developer from Hungary.</h3>
+<h3 align="center">A passionate Frontend developer from Hungary.:hungary:</h3>
 
 - 🔭 I’m currently working on [Blog](https://github.com/szebasztianmarton/Blog-app-react)
 

@@ -12,7 +12,7 @@
 <a href="https://twitter.com/szebamarton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="szebamarton" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/szebasztianmarton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="szebasztianmarton" height="30" width="40" /></a>
 <a href="https://codesandbox.com/szebasztianmarton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="szebasztianmarton" height="30" width="40" /></a>
-<a href="https://instagram.com/szebasztianmarton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="szebasztianmarton" height="30" width="40" /></a>
+<a href="https://instagram.com/szebamarton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="szebasztianmarton" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

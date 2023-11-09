@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Szebasztian Marton</h1>
 <h3 align="center">A passionate Frontend developer from Hungary.</h3>
 
-- 🔭 I’m currently working on [Blog](https://github.com/szebasztianmarton/Blog-app-react)
+- 🔭 I’m currently working on [Ticket-App](https://github.com/szebasztianmarton/Ticket-app-nextjs)
 
 - 📫 How to reach me **szebasztianmarton@gmail.com**
 
